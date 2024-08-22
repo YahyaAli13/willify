@@ -1,0 +1,56 @@
+# Node.js dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+jspm_packages/
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build directories
+/build
+/dist
+
+# Coverage directory used by testing tools
+/coverage
+
+# Cache files
+/.eslintcache
+/.cache
+
+# Parcel-bundler cache (if using Parcel)
+/.cache/
+
+# Storybook files (if using Storybook)
+.out/
+.storybook/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# MacOS Finder's extended attributes files
+*.DS_Store
+
+# Tailwind CSS output
+public/tailwind.css
